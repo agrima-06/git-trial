@@ -4,3 +4,4 @@ git log --oneline
 Working on feature 1
 
 git add notes.txt
+Main edit
